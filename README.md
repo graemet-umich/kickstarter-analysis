@@ -8,7 +8,7 @@ Louise chose Kickstarter to fund her new play Fever. Unfortunately, her funding 
 For Louise, and her specific interest in Plays, the most important metric is Outcomes, i.e., whether a project succeeded, failed, or was canceled. This analysis will chart Outcomes on the basis of Project Launch Date (monthly calendar year) and Project Funding Goal (how much the investee asked in funding).   
 
 ## Analysis and Challenges
-These analyses are straight from the BootCamp guidelines.
+These analyses are straight from the BootCamp guidelines. The dates of the data range for Project Launch Date are from 5/17/09 to 3/15/17 and for Project Completion Date are 8/10/09 to 5/3/17.
 
 ### Analysis of Outcomes Based on Launch Date
 - Rename to Kickstarter_Challenge.xlsx the prior file data-1-1-3-StarterBook.xlsx
@@ -47,6 +47,7 @@ These analyses are straight from the BootCamp guidelines.
 - I could not distinguish the "canceled" data from the x-axis in the line chart line color
     - I re-adjusted the y-axis to include negative values
 - N is small over $25,000 (N = 42 out of a total of N = 1047 over), which raises concerns about the statistical validity.
+- My compressed zip file is the same size as the original (1.7 MB)
 
 ## Results
 
